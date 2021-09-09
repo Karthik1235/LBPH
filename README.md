@@ -1,7 +1,5 @@
 # face-recognition-using-lbph
 
-This project I've done as part of my own interest.
-
 Technology used: Python, Opencv, LBPH, viola jones face detection classifier
 
 To perform LBPH I've created a module lbph.py which contains the functions required to perform lbph.
